@@ -7,3 +7,5 @@ Seaborn
 Matplotlib
 Folium
 geopy
+
+for explanations : https://medium.com/@saygin_ayaz/exploratory-data-analysis-mta-turnstile-data-in-nyc-63fb653f32b
